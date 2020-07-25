@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lesson 11</string>
+    <string name="next">Перейти</string>
+    <string name="sometext">SomeText</string>
+    <string name="linear_layout_activity">Linear Layout Activity</string>
+    <string name="return_btn">Вернуться к выбору</string>
+    <string name="grid_layout_activity">Grid Layout Activity</string>
+</resources>
